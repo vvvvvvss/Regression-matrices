@@ -26,4 +26,17 @@ Certainly! Let's break down the provided code step by step:
 7. **Printing Results**:
    - `print("Mean Squared Error:", mse)`: Finally, this line prints the calculated mean squared error, which serves as a metric to evaluate the performance of the linear regression model.
 
-Overall, this code demonstrates a basic implementation of linear regression using matrices for stock price prediction, including data splitting, model training, prediction, and evaluation.
+Overall, this code demonstrates a basic implementation of linear regression using matrices for stock price prediction, including data splitting, model training, prediction, and evaluation.   
+
+
+      Close Price:
+
+The "Close" price of a stock is the last price at which a stock traded during the trading period, such as a trading day. It is often considered one of the most important prices in analyzing stock market data because it reflects the final consensus price between buyers and sellers at the end of the trading period.
+
+
+
+
+
+
+
+
