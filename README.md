@@ -33,6 +33,13 @@ Overall, this code demonstrates a basic implementation of linear regression usin
 
 The "Close" price of a stock is the last price at which a stock traded during the trading period, such as a trading day. It is often considered one of the most important prices in analyzing stock market data because it reflects the final consensus price between buyers and sellers at the end of the trading period.
 
+High Price:
+
+The "High" price of a stock refers to the highest price at which the stock traded during the trading period, such as a trading day. It represents the maximum price level reached by the stock during that period.   
+
+Low Price:
+
+The "Low" price of a stock is the lowest price at which the stock traded during the trading period, such as a trading day. It represents the minimum price level reached by the stock during that period.
 
 
 
